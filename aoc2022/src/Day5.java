@@ -194,11 +194,11 @@ public class Day5 extends AbstractDay{
         System.out.println("[PART 1] Top of all of our stacks is: " + finalMessage);
     }
 
-    private void printStacks(Stack<Character>[] stacks) {
-        for(int i = 0; i < stacks.length; i++) {
-            System.out.println("Stack " + (i+1) + " has: " + stacks[i]);
-        }
-    }
+    // private void printStacks(Stack<Character>[] stacks) {
+    //     for(int i = 0; i < stacks.length; i++) {
+    //         System.out.println("Stack " + (i+1) + " has: " + stacks[i]);
+    //     }
+    // }
 
     @Override
     protected void part2(Scanner scan) {
