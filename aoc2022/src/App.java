@@ -6,6 +6,7 @@ public class App {
         //new Day5("inputs/day5.txt");
         //new Day6();
         //new Day7();
-        new Day8();
+        //new Day8();
+        new Day9();
     }
 }
