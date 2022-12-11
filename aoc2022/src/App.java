@@ -7,6 +7,7 @@ public class App {
         //new Day6();
         //new Day7();
         //new Day8();
-        new Day9();
+        //new Day9();
+        new Day10();
     }
 }
